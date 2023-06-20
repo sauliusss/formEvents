@@ -1,0 +1,21 @@
+{
+  "name": "formevents",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauliusss/formEvents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauliusss/formEvents/issues"
+  },
+  "homepage": "https://github.com/sauliusss/formEvents#readme",
+  "keywords": [],
+  "description": ""
+}
